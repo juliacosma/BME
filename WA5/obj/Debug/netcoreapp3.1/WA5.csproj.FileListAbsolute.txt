@@ -1,0 +1,13 @@
+C:\Users\jules\Documents\University\1A\BME121\Weekly Assignments\WA5\obj\Debug\netcoreapp3.1\WA5.csprojAssemblyReference.cache
+C:\Users\jules\Documents\University\1A\BME121\Weekly Assignments\WA5\obj\Debug\netcoreapp3.1\WA5.AssemblyInfoInputs.cache
+C:\Users\jules\Documents\University\1A\BME121\Weekly Assignments\WA5\obj\Debug\netcoreapp3.1\WA5.AssemblyInfo.cs
+C:\Users\jules\Documents\University\1A\BME121\Weekly Assignments\WA5\obj\Debug\netcoreapp3.1\WA5.csproj.CoreCompileInputs.cache
+C:\Users\jules\Documents\University\1A\BME121\Weekly Assignments\WA5\bin\Debug\netcoreapp3.1\WA5.exe
+C:\Users\jules\Documents\University\1A\BME121\Weekly Assignments\WA5\bin\Debug\netcoreapp3.1\WA5.deps.json
+C:\Users\jules\Documents\University\1A\BME121\Weekly Assignments\WA5\bin\Debug\netcoreapp3.1\WA5.runtimeconfig.json
+C:\Users\jules\Documents\University\1A\BME121\Weekly Assignments\WA5\bin\Debug\netcoreapp3.1\WA5.runtimeconfig.dev.json
+C:\Users\jules\Documents\University\1A\BME121\Weekly Assignments\WA5\bin\Debug\netcoreapp3.1\WA5.dll
+C:\Users\jules\Documents\University\1A\BME121\Weekly Assignments\WA5\bin\Debug\netcoreapp3.1\WA5.pdb
+C:\Users\jules\Documents\University\1A\BME121\Weekly Assignments\WA5\obj\Debug\netcoreapp3.1\WA5.dll
+C:\Users\jules\Documents\University\1A\BME121\Weekly Assignments\WA5\obj\Debug\netcoreapp3.1\WA5.pdb
+C:\Users\jules\Documents\University\1A\BME121\Weekly Assignments\WA5\obj\Debug\netcoreapp3.1\WA5.genruntimeconfig.cache
