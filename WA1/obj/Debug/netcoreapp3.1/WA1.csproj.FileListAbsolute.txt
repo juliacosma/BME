@@ -1,0 +1,13 @@
+C:\Users\jules\Documents\University\1A\BME121\Assignments\WA1\obj\Debug\netcoreapp3.1\WA1.csprojAssemblyReference.cache
+C:\Users\jules\Documents\University\1A\BME121\Assignments\WA1\obj\Debug\netcoreapp3.1\WA1.AssemblyInfoInputs.cache
+C:\Users\jules\Documents\University\1A\BME121\Assignments\WA1\obj\Debug\netcoreapp3.1\WA1.AssemblyInfo.cs
+C:\Users\jules\Documents\University\1A\BME121\Assignments\WA1\obj\Debug\netcoreapp3.1\WA1.csproj.CoreCompileInputs.cache
+C:\Users\jules\Documents\University\1A\BME121\Assignments\WA1\bin\Debug\netcoreapp3.1\WA1.exe
+C:\Users\jules\Documents\University\1A\BME121\Assignments\WA1\bin\Debug\netcoreapp3.1\WA1.deps.json
+C:\Users\jules\Documents\University\1A\BME121\Assignments\WA1\bin\Debug\netcoreapp3.1\WA1.runtimeconfig.json
+C:\Users\jules\Documents\University\1A\BME121\Assignments\WA1\bin\Debug\netcoreapp3.1\WA1.runtimeconfig.dev.json
+C:\Users\jules\Documents\University\1A\BME121\Assignments\WA1\bin\Debug\netcoreapp3.1\WA1.dll
+C:\Users\jules\Documents\University\1A\BME121\Assignments\WA1\bin\Debug\netcoreapp3.1\WA1.pdb
+C:\Users\jules\Documents\University\1A\BME121\Assignments\WA1\obj\Debug\netcoreapp3.1\WA1.dll
+C:\Users\jules\Documents\University\1A\BME121\Assignments\WA1\obj\Debug\netcoreapp3.1\WA1.pdb
+C:\Users\jules\Documents\University\1A\BME121\Assignments\WA1\obj\Debug\netcoreapp3.1\WA1.genruntimeconfig.cache

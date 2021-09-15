@@ -1,0 +1,13 @@
+C:\Users\jules\Documents\University\1A\BME121\Assignments\PA1\obj\Debug\netcoreapp3.1\PA1.csprojAssemblyReference.cache
+C:\Users\jules\Documents\University\1A\BME121\Assignments\PA1\obj\Debug\netcoreapp3.1\PA1.AssemblyInfoInputs.cache
+C:\Users\jules\Documents\University\1A\BME121\Assignments\PA1\obj\Debug\netcoreapp3.1\PA1.AssemblyInfo.cs
+C:\Users\jules\Documents\University\1A\BME121\Assignments\PA1\obj\Debug\netcoreapp3.1\PA1.csproj.CoreCompileInputs.cache
+C:\Users\jules\Documents\University\1A\BME121\Assignments\PA1\bin\Debug\netcoreapp3.1\PA1.exe
+C:\Users\jules\Documents\University\1A\BME121\Assignments\PA1\bin\Debug\netcoreapp3.1\PA1.deps.json
+C:\Users\jules\Documents\University\1A\BME121\Assignments\PA1\bin\Debug\netcoreapp3.1\PA1.runtimeconfig.json
+C:\Users\jules\Documents\University\1A\BME121\Assignments\PA1\bin\Debug\netcoreapp3.1\PA1.runtimeconfig.dev.json
+C:\Users\jules\Documents\University\1A\BME121\Assignments\PA1\bin\Debug\netcoreapp3.1\PA1.dll
+C:\Users\jules\Documents\University\1A\BME121\Assignments\PA1\bin\Debug\netcoreapp3.1\PA1.pdb
+C:\Users\jules\Documents\University\1A\BME121\Assignments\PA1\obj\Debug\netcoreapp3.1\PA1.dll
+C:\Users\jules\Documents\University\1A\BME121\Assignments\PA1\obj\Debug\netcoreapp3.1\PA1.pdb
+C:\Users\jules\Documents\University\1A\BME121\Assignments\PA1\obj\Debug\netcoreapp3.1\PA1.genruntimeconfig.cache
